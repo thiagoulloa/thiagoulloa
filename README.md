@@ -7,16 +7,16 @@ I'm a developer passionate about technology, with a special focus on Web3 and de
 
 ### 🛠️ Technologies and Tools:
 
-**Languages:**
+**Languages:** 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
 ![Cairo](https://img.shields.io/badge/-Cairo-FF6F61?logoColor=white&style=for-the-badge)
 
-**Frameworks:**
+**Frameworks:** 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 
-**Tools:**
+**Tools:** 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
