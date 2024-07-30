@@ -28,6 +28,7 @@ I'm a developer passionate about technology, with a special focus on Web3 and de
 - CAIRO: Developing my skills in CAIRO, a specialized language for building smart contracts on StarkNet.
 
 
+
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=thiagoulloa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="max-width: 45%;" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thiagoulloa&layout=compact&langs_count=8&theme=algolia" alt="Top Languages" style="max-width: 45%;" />
