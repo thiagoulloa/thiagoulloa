@@ -3,7 +3,7 @@
 ### About Me:
 I'm a developer passionate about technology, with a special focus on Web3 and decentralized technologies.
 - 🎓 Systems Development Technician (ETEC Jorge Street)
-- 🎓 Systems Analysis and Development (currently studying at Fatec São Caetano do Sul)
+- 🎓 Systems Analysis and Development (currently studying at Fatec São Caetano do Sul University)
 
 ### 🛠️ Technologies and Tools:
 
